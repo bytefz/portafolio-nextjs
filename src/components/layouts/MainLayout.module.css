@@ -1,0 +1,10 @@
+.background-gradient-radius {
+  background: radial-gradient(
+    70% 70% at 30% 60%,
+    rgba(155, 69, 235, 0.349) 0%,
+    rgba(0, 0, 0, 0) 60%
+  );
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  width: 100vw;
+}
